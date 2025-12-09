@@ -1,3 +1,4 @@
 llama-index
 llama-index-llms-openai
 llama-index-instrumentation-agentops 
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
