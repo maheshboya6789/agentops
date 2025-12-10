@@ -6,3 +6,4 @@ pycountry
 arxiv
 pypdf
 duckduckgo-search
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
