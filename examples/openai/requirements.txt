@@ -3,3 +3,4 @@ pandas  # for multi_tool_orchestration.py
 tavily-python  # for web_search.py 
 datasets
 pinecone
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
